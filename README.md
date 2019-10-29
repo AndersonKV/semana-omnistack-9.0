@@ -2,9 +2,9 @@
 
 projeto desenvolvido utilizando 
 
-node js
-react js
-react native
+node js<br>
+react js<br>
+react native<br>
 expo
 
 esse projeto faz parte do curso semana oministack da rocketseat
